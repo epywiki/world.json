@@ -1,0 +1,381 @@
+{
+  "Algeria": {
+    "iso_numeric": "012",
+    "A0": "Country",
+    "A1": "Province (Wilaya)",
+    "A2": "District (Daïra)",
+    "A3": "Commune"
+  },
+  "Angola": {
+    "iso_numeric": "024",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Municipality",
+    "A3": "Commune"
+  },
+  "Benin": {
+    "iso_numeric": "204",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Commune",
+    "A3": "Arrondissement"
+  },
+  "Botswana": {
+    "iso_numeric": "072",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Sub-district",
+    "A3": "Village"
+  },
+  "Burkina Faso": {
+    "iso_numeric": "854",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Province",
+    "A3": "Department"
+  },
+  "Burundi": {
+    "iso_numeric": "108",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Commune",
+    "A3": "Colline (Hill)"
+  },
+  "Cabo Verde": {
+    "iso_numeric": "132",
+    "A0": "Country",
+    "A1": "Island",
+    "A2": "Municipality",
+    "A3": "Parish"
+  },
+  "Cameroon": {
+    "iso_numeric": "120",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Department",
+    "A3": "Commune"
+  },
+  "Central African Republic": {
+    "iso_numeric": "140",
+    "A0": "Country",
+    "A1": "Prefecture",
+    "A2": "Sub-prefecture",
+    "A3": "Commune"
+  },
+  "Chad": {
+    "iso_numeric": "148",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Department",
+    "A3": "Sub-prefecture"
+  },
+  "Comoros": {
+    "iso_numeric": "174",
+    "A0": "Country",
+    "A1": "Island",
+    "A2": "Prefecture",
+    "A3": "Commune"
+  },
+  "Congo": {
+    "iso_numeric": "178",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "District",
+    "A3": "Village"
+  },
+  "Congo, Democratic Republic of the": {
+    "iso_numeric": "180",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Territory/City",
+    "A3": "Sector/Commune"
+  },
+  "Côte d'Ivoire": {
+    "iso_numeric": "384",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Region",
+    "A3": "Department"
+  },
+  "Djibouti": {
+    "iso_numeric": "262",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Quarter"
+  },
+  "Egypt": {
+    "iso_numeric": "818",
+    "A0": "Country",
+    "A1": "Governorate",
+    "A2": "Markaz (District)",
+    "A3": "Village/Town"
+  },
+  "Equatorial Guinea": {
+    "iso_numeric": "226",
+    "A0": "Country",
+    "A1": "Region/Province",
+    "A2": "District",
+    "A3": "Municipality"
+  },
+  "Eritrea": {
+    "iso_numeric": "232",
+    "A0": "Country",
+    "A1": "Region (Zoba)",
+    "A2": "Sub-region",
+    "A3": "Village"
+  },
+  "Eswatini": {
+    "iso_numeric": "748",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Inkhundla (Constituency)",
+    "A3": "Umphakatsi (Chiefdom)"
+  },
+  "Ethiopia": {
+    "iso_numeric": "231",
+    "A0": "Country",
+    "A1": "Regional State",
+    "A2": "Zone",
+    "A3": "Woreda (District)"
+  },
+  "Gabon": {
+    "iso_numeric": "266",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Department",
+    "A3": "Commune"
+  },
+  "Gambia": {
+    "iso_numeric": "270",
+    "A0": "Country",
+    "A1": "Division/Region",
+    "A2": "District",
+    "A3": "Village"
+  },
+  "Ghana": {
+    "iso_numeric": "288",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Community"
+  },
+  "Guinea": {
+    "iso_numeric": "324",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Prefecture",
+    "A3": "Sub-prefecture"
+  },
+  "Guinea-Bissau": {
+    "iso_numeric": "624",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Sector",
+    "A3": "Tabanca (Village)"
+  },
+  "Kenya": {
+    "iso_numeric": "404",
+    "A0": "Country",
+    "A1": "County",
+    "A2": "Sub-county",
+    "A3": "Ward"
+  },
+  "Lesotho": {
+    "iso_numeric": "426",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Constituency",
+    "A3": "Community Council"
+  },
+  "Liberia": {
+    "iso_numeric": "430",
+    "A0": "Country",
+    "A1": "County",
+    "A2": "District",
+    "A3": "Clan"
+  },
+  "Libya": {
+    "iso_numeric": "434",
+    "A0": "Country",
+    "A1": "Region (Sha'biyah)",
+    "A2": "District (Baladiyah)",
+    "A3": "Community"
+  },
+  "Madagascar": {
+    "iso_numeric": "450",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Commune"
+  },
+  "Malawi": {
+    "iso_numeric": "454",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Traditional Authority Area"
+  },
+  "Mali": {
+    "iso_numeric": "466",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Cercle",
+    "A3": "Commune"
+  },
+  "Mauritania": {
+    "iso_numeric": "478",
+    "A0": "Country",
+    "A1": "Region (Wilaya)",
+    "A2": "Department (Moughataa)",
+    "A3": "Commune"
+  },
+  "Mauritius": {
+    "iso_numeric": "480",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Village Council Area",
+    "A3": "Locality"
+  },
+  "Morocco": {
+    "iso_numeric": "504",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Province/Prefecture",
+    "A3": "Commune"
+  },
+  "Mozambique": {
+    "iso_numeric": "508",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Locality"
+  },
+  "Namibia": {
+    "iso_numeric": "516",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Constituency",
+    "A3": "Settlement"
+  },
+  "Niger": {
+    "iso_numeric": "562",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Department",
+    "A3": "Commune"
+  },
+  "Nigeria": {
+    "iso_numeric": "566",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "Local Government Area (LGA)",
+    "A3": "Ward"
+  },
+  "Rwanda": {
+    "iso_numeric": "646",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Sector"
+  },
+  "Sao Tome and Principe": {
+    "iso_numeric": "678",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Locality"
+  },
+  "Senegal": {
+    "iso_numeric": "686",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Department",
+    "A3": "Arrondissement"
+  },
+  "Seychelles": {
+    "iso_numeric": "690",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Sub-district",
+    "A3": "Community"
+  },
+  "Sierra Leone": {
+    "iso_numeric": "694",
+    "A0": "Country",
+    "A1": "Province/Area",
+    "A2": "District",
+    "A3": "Chiefdom"
+  },
+  "Somalia": {
+    "iso_numeric": "706",
+    "A0": "Country",
+    "A1": "Federal Member State",
+    "A2": "Region (Gobol)",
+    "A3": "District (Degmo)"
+  },
+  "South Africa": {
+    "iso_numeric": "710",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District Municipality",
+    "A3": "Local Municipality"
+  },
+  "South Sudan": {
+    "iso_numeric": "728",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "County",
+    "A3": "Payam"
+  },
+  "Sudan": {
+    "iso_numeric": "729",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "Locality",
+    "A3": "Administrative Unit"
+  },
+  "Tanzania": {
+    "iso_numeric": "834",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Ward"
+  },
+  "Togo": {
+    "iso_numeric": "768",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Prefecture",
+    "A3": "Canton"
+  },
+  "Tunisia": {
+    "iso_numeric": "788",
+    "A0": "Country",
+    "A1": "Governorate",
+    "A2": "Delegation (Mutamadiyah)",
+    "A3": "Sector/Imada"
+  },
+  "Uganda": {
+    "iso_numeric": "800",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Sub-county"
+  },
+  "Zambia": {
+    "iso_numeric": "894",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Ward"
+  },
+  "Zimbabwe": {
+    "iso_numeric": "716",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Ward"
+  }
+}
+
