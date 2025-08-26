@@ -1,0 +1,359 @@
+{
+  "Albania": {
+    "iso_numeric": "008",
+    "A0": "Country",
+    "A1": "County (Qark)",
+    "A2": "District (Rreth)",
+    "A3": "Municipality (Bashkia/Komunë)"
+  },
+  "Andorra": {
+    "iso_numeric": "020",
+    "A0": "Country",
+    "A1": "Parish (Parròquia)",
+    "A2": null,
+    "A3": null
+  },
+  "Armenia": {
+    "iso_numeric": "051",
+    "A0": "Country",
+    "A1": "Province (Marz)",
+    "A2": "Community (Hamaynk)",
+    "A3": "Settlement"
+  },
+  "Austria": {
+    "iso_numeric": "040",
+    "A0": "Country",
+    "A1": "State (Bundesland)",
+    "A2": "District (Bezirk/Statutarstadt)",
+    "A3": "Municipality (Gemeinde)"
+  },
+  "Azerbaijan": {
+    "iso_numeric": "031",
+    "A0": "Country",
+    "A1": "District (Rayon) / City (Şəhər)",
+    "A2": "Municipality",
+    "A3": "Village"
+  },
+  "Belarus": {
+    "iso_numeric": "112",
+    "A0": "Country",
+    "A1": "Region (Voblast)",
+    "A2": "District (Raion)",
+    "A3": "City/Town"
+  },
+  "Belgium": {
+    "iso_numeric": "056",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Province",
+    "A3": "Municipality (Commune/Gemeente)"
+  },
+  "Bosnia and Herzegovina": {
+    "iso_numeric": "070",
+    "A0": "Country",
+    "A1": "Entity (Federation of Bosnia and Herzegovina/Republika Srpska/Brčko District)",
+    "A2": "Canton (for Federation only)",
+    "A3": "Municipality (Općina/Opština)"
+  },
+  "Bulgaria": {
+    "iso_numeric": "100",
+    "A0": "Country",
+    "A1": "Province (Oblast)",
+    "A2": "Municipality (Obshtina)",
+    "A3": "Settlement"
+  },
+  "Croatia": {
+    "iso_numeric": "191",
+    "A0": "Country",
+    "A1": "County (Županija)",
+    "A2": "City/Municipality (Grad/Općina)",
+    "A3": "Settlement (Naselje)"
+  },
+  "Cyprus": {
+    "iso_numeric": "196",
+    "A0": "Country",
+    "A1": "District (Eparchia)",
+    "A2": "Municipality/Community",
+    "A3": null
+  },
+  "Czechia": {
+    "iso_numeric": "203",
+    "A0": "Country",
+    "A1": "Region (Kraj)",
+    "A2": "District (Okres)",
+    "A3": "Municipality (Obec)"
+  },
+  "Denmark": {
+    "iso_numeric": "208",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Municipality (Kommune)",
+    "A3": null
+  },
+  "Estonia": {
+    "iso_numeric": "233",
+    "A0": "Country",
+    "A1": "County (Maakond)",
+    "A2": "Municipality (Omavalitsus)",
+    "A3": "Settlement"
+  },
+  "Finland": {
+    "iso_numeric": "246",
+    "A0": "Country",
+    "A1": "Region (Maakunta/Landskap)",
+    "A2": "Municipality (Kunta/Kommun)",
+    "A3": null
+  },
+  "France": {
+    "iso_numeric": "250",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Department (Département)",
+    "A3": "Commune"
+  },
+  "Georgia": {
+    "iso_numeric": "268",
+    "A0": "Country",
+    "A1": "Region (Mkhare)",
+    "A2": "Municipality",
+    "A3": "Community/Village"
+  },
+  "Germany": {
+    "iso_numeric": "276",
+    "A0": "Country",
+    "A1": "State (Bundesland)",
+    "A2": "District (Kreisfreie Stadt/Landkreis)",
+    "A3": "Municipality (Gemeinde)"
+  },
+  "Greece": {
+    "iso_numeric": "300",
+    "A0": "Country",
+    "A1": "Region (Periféreia)",
+    "A2": "Regional Unit (Perifereiakí Enótita)",
+    "A3": "Municipality (Dímos)"
+  },
+  "Hungary": {
+    "iso_numeric": "348",
+    "A0": "Country",
+    "A1": "Region (NUTS-2 Statistical)",
+    "A2": "County (Megye)",
+    "A3": "District/Municipality"
+  },
+  "Iceland": {
+    "iso_numeric": "352",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Municipality (Sveitarfélag)",
+    "A3": null
+  },
+  "Ireland": {
+    "iso_numeric": "372",
+    "A0": "Country",
+    "A1": "Province/Region (Historic)",
+    "A2": "County",
+    "A3": "Municipal District/Electoral Division"
+  },
+  "Italy": {
+    "iso_numeric": "380",
+    "A0": "Country",
+    "A1": "Region (Regione)",
+    "A2": "Province/Metropolitan City (Provincia/Città Metropolitana)",
+    "A3": "Municipality (Comune)"
+  },
+  "Kazakhstan": {
+    "iso_numeric": "398",
+    "A0": "Country",
+    "A1": "Region (Oblys)",
+    "A2": "District (Audany)",
+    "A3": "Rural District/Village"
+  },
+  "Kosovo": {
+    "iso_numeric": "383",
+    "A0": "Country",
+    "A1": "District (Rajon)",
+    "A2": "Municipality (Komunë/Opština)",
+    "A3": "Settlement"
+  },
+  "Latvia": {
+    "iso_numeric": "428",
+    "A0": "Country",
+    "A1": "Planning Region",
+    "A2": "Municipality (Novads)",
+    "A3": "Parish (Pagasts)/Town"
+  },
+  "Liechtenstein": {
+    "iso_numeric": "438",
+    "A0": "Country",
+    "A1": "Municipality (Gemeinde)",
+    "A2": null,
+    "A3": null
+  },
+  "Lithuania": {
+    "iso_numeric": "440",
+    "A0": "Country",
+    "A1": "County (Apskritis)",
+    "A2": "Municipality (Savivaldybė)",
+    "A3": "Eldership (Seniūnija)"
+  },
+  "Luxembourg": {
+    "iso_numeric": "442",
+    "A0": "Country",
+    "A1": "Canton",
+    "A2": "Commune",
+    "A3": null
+  },
+  "Malta": {
+    "iso_numeric": "470",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "District",
+    "A3": "Local Council"
+  },
+  "Moldova": {
+    "iso_numeric": "498",
+    "A0": "Country",
+    "A1": "District (Raion)/Municipality",
+    "A2": "Commune/City",
+    "A3": "Village"
+  },
+  "Monaco": {
+    "iso_numeric": "492",
+    "A0": "Country",
+    "A1": "Ward (Quartier)",
+    "A2": null,
+    "A3": null
+  },
+  "Montenegro": {
+    "iso_numeric": "499",
+    "A0": "Country",
+    "A1": "Municipality (Opština)",
+    "A2": "Local Community",
+    "A3": "Settlement"
+  },
+  "Netherlands": {
+    "iso_numeric": "528",
+    "A0": "Country",
+    "A1": "Province (Provincie)",
+    "A2": "Municipality (Gemeente)",
+    "A3": null
+  },
+  "North Macedonia": {
+    "iso_numeric": "807",
+    "A0": "Country",
+    "A1": "Statistical Region",
+    "A2": "Municipality (Opština)",
+    "A3": "Settlement"
+  },
+  "Norway": {
+    "iso_numeric": "578",
+    "A0": "Country",
+    "A1": "County (Fylke)",
+    "A2": "Municipality (Kommune)",
+    "A3": null
+  },
+  "Poland": {
+    "iso_numeric": "616",
+    "A0": "Country",
+    "A1": "Voivodeship (Województwo)",
+    "A2": "County (Powiat)",
+    "A3": "Commune (Gmina)"
+  },
+  "Portugal": {
+    "iso_numeric": "620",
+    "A0": "Country",
+    "A1": "Region (Região)",
+    "A2": "Municipality (Município)",
+    "A3": "Parish (Freguesia)"
+  },
+  "Romania": {
+    "iso_numeric": "642",
+    "A0": "Country",
+    "A1": "County (Județ)",
+    "A2": "City/Town/Commune",
+    "A3": "Village (Sat)"
+  },
+  "Russia": {
+    "iso_numeric": "643",
+    "A0": "Country",
+    "A1": "Federal Subject (Oblast, Krai, Republic, etc.)",
+    "A2": "District (Raion)",
+    "A3": "Municipality/Settlement"
+  },
+  "San Marino": {
+    "iso_numeric": "674",
+    "A0": "Country",
+    "A1": "Municipality (Castello)",
+    "A2": null,
+    "A3": null
+  },
+  "Serbia": {
+    "iso_numeric": "688",
+    "A0": "Country",
+    "A1": "District (Okrug)",
+    "A2": "Municipality (Opština/Grad)",
+    "A3": "Settlement"
+  },
+  "Slovakia": {
+    "iso_numeric": "703",
+    "A0": "Country",
+    "A1": "Region (Kraj)",
+    "A2": "District (Okres)",
+    "A3": "Municipality (Obec)"
+  },
+  "Slovenia": {
+    "iso_numeric": "705",
+    "A0": "Country",
+    "A1": "Statistical Region",
+    "A2": "Municipality (Občina)",
+    "A3": "Settlement"
+  },
+  "Spain": {
+    "iso_numeric": "724",
+    "A0": "Country",
+    "A1": "Autonomous Community",
+    "A2": "Province",
+    "A3": "Municipality"
+  },
+  "Sweden": {
+    "iso_numeric": "752",
+    "A0": "Country",
+    "A1": "County (Län)",
+    "A2": "Municipality (Kommun)",
+    "A3": null
+  },
+  "Switzerland": {
+    "iso_numeric": "756",
+    "A0": "Country",
+    "A1": "Canton (Kanton)",
+    "A2": "District (Bezirk, optional in some cantons)",
+    "A3": "Municipality (Gemeinde/Commune)"
+  },
+  "Turkey": {
+    "iso_numeric": "792",
+    "A0": "Country",
+    "A1": "Province (İl)",
+    "A2": "District (İlçe)",
+    "A3": "Village/Neighborhood (Köy/Mahalle)"
+  },
+  "Ukraine": {
+    "iso_numeric": "804",
+    "A0": "Country",
+    "A1": "Oblast/Autonomous Republic",
+    "A2": "Raion",
+    "A3": "City/Town/Village"
+  },
+  "United Kingdom": {
+    "iso_numeric": "826",
+    "A0": "Country",
+    "A1": "Constituent Country (England, Scotland, Wales, Northern Ireland)",
+    "A2": "County/Unitary Authority/District",
+    "A3": "Civil Parish/Community"
+  },
+  "Vatican City": {
+    "iso_numeric": "336",
+    "A0": "Country",
+    "A1": null,
+    "A2": null,
+    "A3": null
+  }
+}
