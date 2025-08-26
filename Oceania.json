@@ -1,0 +1,100 @@
+{
+  "Australia": {
+    "iso_numeric": "036",
+    "A0": "Country",
+    "A1": "State/Territory",
+    "A2": "Local Government Area (LGA)",
+    "A3": "Suburb/Locality"
+  },
+  "Fiji": {
+    "iso_numeric": "242",
+    "A0": "Country",
+    "A1": "Division",
+    "A2": "Province",
+    "A3": "District"
+  },
+  "Kiribati": {
+    "iso_numeric": "296",
+    "A0": "Country",
+    "A1": "Island Group",
+    "A2": "Island",
+    "A3": "Village"
+  },
+  "Marshall Islands": {
+    "iso_numeric": "584",
+    "A0": "Country",
+    "A1": "Atoll/Island",
+    "A2": "Municipality",
+    "A3": null
+  },
+  "Micronesia (Federated States of)": {
+    "iso_numeric": "583",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "Municipality",
+    "A3": "Village"
+  },
+  "Nauru": {
+    "iso_numeric": "520",
+    "A0": "Country",
+    "A1": "District",
+    "A2": null,
+    "A3": null
+  },
+  "New Zealand": {
+    "iso_numeric": "554",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Territorial Authority (City/District)",
+    "A3": "Ward/Community"
+  },
+  "Palau": {
+    "iso_numeric": "585",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "Village",
+    "A3": null
+  },
+  "Papua New Guinea": {
+    "iso_numeric": "598",
+    "A0": "Country",
+    "A1": "Province/Autonomous Region",
+    "A2": "District",
+    "A3": "Local-Level Government (LLG)"
+  },
+  "Samoa": {
+    "iso_numeric": "882",
+    "A0": "Country",
+    "A1": "District (Itūmālō)",
+    "A2": "Village",
+    "A3": null
+  },
+  "Solomon Islands": {
+    "iso_numeric": "090",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Ward",
+    "A3": "Village"
+  },
+  "Tonga": {
+    "iso_numeric": "776",
+    "A0": "Country",
+    "A1": "Division",
+    "A2": "District",
+    "A3": "Village"
+  },
+  "Tuvalu": {
+    "iso_numeric": "798",
+    "A0": "Country",
+    "A1": "Island",
+    "A2": "Village",
+    "A3": null
+  },
+  "Vanuatu": {
+    "iso_numeric": "548",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Municipality",
+    "A3": "Village"
+  }
+}
