@@ -1,0 +1,316 @@
+{
+  "Afghanistan": {
+    "iso_numeric": "004",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Village"
+  },
+  "Armenia": {
+    "iso_numeric": "051",
+    "A0": "Country",
+    "A1": "Province (Marz)",
+    "A2": "Community",
+    "A3": "Settlement"
+  },
+  "Azerbaijan": {
+    "iso_numeric": "031",
+    "A0": "Country",
+    "A1": "District (Rayon) / City",
+    "A2": "Municipality",
+    "A3": "Village/Town"
+  },
+  "Bahrain": {
+    "iso_numeric": "048",
+    "A0": "Country",
+    "A1": "Governorate",
+    "A2": "Area",
+    "A3": "Neighborhood"
+  },
+  "Bangladesh": {
+    "iso_numeric": "050",
+    "A0": "Country",
+    "A1": "Division",
+    "A2": "District",
+    "A3": "Upazila/Union"
+  },
+  "Bhutan": {
+    "iso_numeric": "064",
+    "A0": "Country",
+    "A1": "District (Dzongkhag)",
+    "A2": "Gewog (Block)",
+    "A3": "Village"
+  },
+  "Brunei": {
+    "iso_numeric": "096",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Mukim",
+    "A3": "Village (Kampong)"
+  },
+  "Cambodia": {
+    "iso_numeric": "116",
+    "A0": "Country",
+    "A1": "Province / Capital Municipality",
+    "A2": "District (Srok) / Khan",
+    "A3": "Commune (Khum) / Sangkat"
+  },
+  "China": {
+    "iso_numeric": "156",
+    "A0": "Country",
+    "A1": "Province / Autonomous Region / Municipality",
+    "A2": "Prefecture / City",
+    "A3": "County / District / Township"
+  },
+  "Georgia": {
+    "iso_numeric": "268",
+    "A0": "Country",
+    "A1": "Region (Mkhare)",
+    "A2": "Municipality",
+    "A3": "Community/Village"
+  },
+  "India": {
+    "iso_numeric": "356",
+    "A0": "Country",
+    "A1": "State / Union Territory",
+    "A2": "District",
+    "A3": "Sub-division (Tehsil/Taluk)"
+  },
+  "Indonesia": {
+    "iso_numeric": "360",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Regency (Kabupaten) / City (Kota)",
+    "A3": "District (Kecamatan)"
+  },
+  "Iran": {
+    "iso_numeric": "364",
+    "A0": "Country",
+    "A1": "Province (Ostan)",
+    "A2": "County (Shahrestan)",
+    "A3": "District (Bakhsh)"
+  },
+  "Iraq": {
+    "iso_numeric": "368",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "District (Qadaa)",
+    "A3": "Sub-district (Nahiyah)"
+  },
+  "Israel": {
+    "iso_numeric": "376",
+    "A0": "Country",
+    "A1": "District (Mehoz)",
+    "A2": "Sub-district (Nafa)",
+    "A3": "City / Local Council / Regional Council"
+  },
+  "Japan": {
+    "iso_numeric": "392",
+    "A0": "Country",
+    "A1": "Prefecture (Ken / To / Do / Fu)",
+    "A2": "City (Shi) / Ward (Ku) / Town (Machi) / Village (Mura)",
+    "A3": "Sub-ward (Chome/Cho)"
+  },
+  "Jordan": {
+    "iso_numeric": "400",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "District (Liwa)",
+    "A3": "Sub-district (Nahiyah)"
+  },
+  "Kazakhstan": {
+    "iso_numeric": "398",
+    "A0": "Country",
+    "A1": "Region (Oblys)",
+    "A2": "District (Audan)",
+    "A3": "Rural District / Village"
+  },
+  "Kuwait": {
+    "iso_numeric": "414",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "Area",
+    "A3": "Block"
+  },
+  "Lebanon": {
+    "iso_numeric": "422",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "District (Qadaa)",
+    "A3": "Municipality"
+  },
+  "Malaysia": {
+    "iso_numeric": "458",
+    "A0": "Country",
+    "A1": "State/Federal Territory",
+    "A2": "District (Daerah)",
+    "A3": "Mukim/Village"
+  },
+  "Maldives": {
+    "iso_numeric": "462",
+    "A0": "Country",
+    "A1": "Atoll",
+    "A2": "Island",
+    "A3": null
+  },
+  "Mongolia": {
+    "iso_numeric": "496",
+    "A0": "Country",
+    "A1": "Province (Aimag)",
+    "A2": "District (Sum)",
+    "A3": null
+  },
+  "Myanmar": {
+    "iso_numeric": "104",
+    "A0": "Country",
+    "A1": "Region/State",
+    "A2": "District",
+    "A3": "Township"
+  },
+  "Nepal": {
+    "iso_numeric": "524",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Municipality/Rural Municipality"
+  },
+  "North Korea": {
+    "iso_numeric": "408",
+    "A0": "Country",
+    "A1": "Province (Do)",
+    "A2": "City/County (Si/Gun)",
+    "A3": "Township (Eup/Myeon/Dong)"
+  },
+  "Oman": {
+    "iso_numeric": "512",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "Wilayat",
+    "A3": null
+  },
+  "Pakistan": {
+    "iso_numeric": "586",
+    "A0": "Country",
+    "A1": "Province/Territory",
+    "A2": "Division",
+    "A3": "District"
+  },
+  "Palestine": {
+    "iso_numeric": "275",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "Locality",
+    "A3": null
+  },
+  "Philippines": {
+    "iso_numeric": "608",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Province",
+    "A3": "Municipality/City/Barangay"
+  }
+  "Qatar": {
+    "iso_numeric": "634",
+    "A0": "Country",
+    "A1": "Municipality (Baladiyah)",
+    "A2": "Zone",
+    "A3": "District"
+  },
+  "Saudi Arabia": {
+    "iso_numeric": "682",
+    "A0": "Country",
+    "A1": "Region (Mintaqah)",
+    "A2": "Governorate (Muhafazah)",
+    "A3": "Center"
+  },
+  "Singapore": {
+    "iso_numeric": "702",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Planning Area",
+    "A3": "Subzone"
+  },
+  "South Korea": {
+    "iso_numeric": "410",
+    "A0": "Country",
+    "A1": "Province (Do)/Special City",
+    "A2": "City/County (Si/Gun)",
+    "A3": "Township/Neighborhood (Eup/Myeon/Dong)"
+  },
+  "Sri Lanka": {
+    "iso_numeric": "144",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "District",
+    "A3": "Divisional Secretariat Division (DS Division)"
+  },
+  "Syria": {
+    "iso_numeric": "760",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "District (Mantiqah)",
+    "A3": "Subdistrict (Nahiya)"
+  },
+  "Tajikistan": {
+    "iso_numeric": "762",
+    "A0": "Country",
+    "A1": "Region (Viloyat)",
+    "A2": "District (Nohiya)",
+    "A3": "Jamoat"
+  },
+  "Thailand": {
+    "iso_numeric": "764",
+    "A0": "Country",
+    "A1": "Province (Changwat)",
+    "A2": "District (Amphoe)",
+    "A3": "Subdistrict (Tambon)"
+  },
+  "Timor-Leste": {
+    "iso_numeric": "626",
+    "A0": "Country",
+    "A1": "Municipality",
+    "A2": "Administrative Post",
+    "A3": "Suco (Village)"
+  },
+  "Turkey": {
+    "iso_numeric": "792",
+    "A0": "Country",
+    "A1": "Province (Il)",
+    "A2": "District (Ilçe)",
+    "A3": "Neighborhood/Village (Mahalle/Köy)"
+  },
+  "Turkmenistan": {
+    "iso_numeric": "795",
+    "A0": "Country",
+    "A1": "Province (Welayat)",
+    "A2": "District (Etrap)",
+    "A3": "Village Council (Geňeşlik)"
+  },
+  "United Arab Emirates": {
+    "iso_numeric": "784",
+    "A0": "Country",
+    "A1": "Emirate",
+    "A2": "Municipality",
+    "A3": null
+  },
+  "Uzbekistan": {
+    "iso_numeric": "860",
+    "A0": "Country",
+    "A1": "Region (Viloyat)",
+    "A2": "District (Tuman)",
+    "A3": "Urban/Rural Community"
+  },
+  "Vietnam": {
+    "iso_numeric": "704",
+    "A0": "Country",
+    "A1": "Province/ Municipality",
+    "A2": "District (Huyện/Quận/Thị xã/Thành phố)",
+    "A3": "Commune (Xã/Phường/Thị trấn)"
+  },
+  "Yemen": {
+    "iso_numeric": "887",
+    "A0": "Country",
+    "A1": "Governorate (Muhafazah)",
+    "A2": "District (Mudiriyah)",
+    "A3": "Sub-district/Village"
+  }
