@@ -1,0 +1,212 @@
+{
+  "Antigua and Barbuda": {
+    "iso_numeric": "028",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Village/Town",
+    "A3": null
+  },
+  "Bahamas": {
+    "iso_numeric": "044",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Settlement",
+    "A3": null
+  },
+  "Barbados": {
+    "iso_numeric": "052",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Constituency",
+    "A3": null
+  },
+  "Belize": {
+    "iso_numeric": "084",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Constituency",
+    "A3": "Village/Town"
+  },
+  "Canada": {
+    "iso_numeric": "124",
+    "A0": "Country",
+    "A1": "Province/Territory",
+    "A2": "Census Division / Regional Municipality",
+    "A3": "Municipality/Community"
+  },
+  "Costa Rica": {
+    "iso_numeric": "188",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Canton",
+    "A3": "District"
+  },
+  "Cuba": {
+    "iso_numeric": "192",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Municipality",
+    "A3": null
+  },
+  "Dominica": {
+    "iso_numeric": "212",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Village/Town",
+    "A3": null
+  },
+  "Dominican Republic": {
+    "iso_numeric": "214",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Municipality",
+    "A3": "Section/Neighborhood"
+  },
+  "El Salvador": {
+    "iso_numeric": "222",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Municipality",
+    "A3": "Canton/Village"
+  },
+  "Grenada": {
+    "iso_numeric": "308",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Village/Town",
+    "A3": null
+  },
+  "Guatemala": {
+    "iso_numeric": "320",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Municipality",
+    "A3": "Village/Community"
+  },
+  "Haiti": {
+    "iso_numeric": "332",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Arrondissement",
+    "A3": "Commune/Section Communale"
+  },
+  "Honduras": {
+    "iso_numeric": "340",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Municipality",
+    "A3": "Aldea/Village"
+  },
+  "Jamaica": {
+    "iso_numeric": "388",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Constituency",
+    "A3": "Community"
+  },
+  "Mexico": {
+    "iso_numeric": "484",
+    "A0": "Country",
+    "A1": "State",
+    "A2": "Municipality",
+    "A3": "Locality"
+  },
+  "Nicaragua": {
+    "iso_numeric": "558",
+    "A0": "Country",
+    "A1": "Department/Autonomous Region",
+    "A2": "Municipality",
+    "A3": "Community/Village"
+  },
+  "Panama": {
+    "iso_numeric": "591",
+    "A0": "Country",
+    "A1": "Province/Indigenous Region",
+    "A2": "District",
+    "A3": "Corregimiento"
+  },
+  "Saint Kitts and Nevis": {
+    "iso_numeric": "659",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Town/Village",
+    "A3": null
+  },
+  "Saint Lucia": {
+    "iso_numeric": "662",
+    "A0": "Country",
+    "A1": "District/Quarter",
+    "A2": "Village/Community",
+    "A3": null
+  },
+  "Saint Vincent and the Grenadines": {
+    "iso_numeric": "670",
+    "A0": "Country",
+    "A1": "Parish",
+    "A2": "Village/Town",
+    "A3": null
+  },
+  "Trinidad and Tobago": {
+    "iso_numeric": "780",
+    "A0": "Country",
+    "A1": "Region/City Corporation/Borough",
+    "A2": "Ward",
+    "A3": "Community/Village"
+  },
+  "United States of America": {
+    "iso_numeric": "840",
+    "A0": "Country",
+    "A1": "State/Territory",
+    "A2": "County/Parish/Borough",
+    "A3": "City/Town"
+  },
+  "Greenland": {
+    "iso_numeric": "304",
+    "A0": "Country (autonomous within Denmark)",
+    "A1": "Municipality",
+    "A2": "Settlement",
+    "A3": null
+  },
+  "Bermuda": {
+    "iso_numeric": "060",
+    "A0": "Territory (UK)",
+    "A1": "Parish",
+    "A2": "Municipality",
+    "A3": null
+  },
+  "Cayman Islands": {
+    "iso_numeric": "136",
+    "A0": "Territory (UK)",
+    "A1": "District",
+    "A2": "Town/Settlement",
+    "A3": null
+  },
+  "Guadeloupe": {
+    "iso_numeric": "312",
+    "A0": "Overseas Department (France)",
+    "A1": "Arrondissement",
+    "A2": "Commune",
+    "A3": null
+  },
+  "Martinique": {
+    "iso_numeric": "474",
+    "A0": "Overseas Department (France)",
+    "A1": "Arrondissement",
+    "A2": "Commune",
+    "A3": null
+  },
+  "Puerto Rico": {
+    "iso_numeric": "630",
+    "A0": "Territory (US)",
+    "A1": "Municipality",
+    "A2": "Barrio",
+    "A3": "Sector"
+  },
+  "Saint Pierre and Miquelon": {
+    "iso_numeric": "666",
+    "A0": "Territory (France)",
+    "A1": "Commune",
+    "A2": "Neighborhood/Locality",
+    "A3": null
+  }
+}
