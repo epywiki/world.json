@@ -1,0 +1,86 @@
+{
+  "Argentina": {
+    "iso_numeric": "032",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Department/Partido",
+    "A3": "Municipality/Locality"
+  },
+  "Bolivia (Plurinational State of)": {
+    "iso_numeric": "068",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Province",
+    "A3": "Municipality"
+  },
+  "Brazil": {
+    "iso_numeric": "076",
+    "A0": "Country",
+    "A1": "State/Federal District",
+    "A2": "Municipality",
+    "A3": "District/Neighborhood"
+  },
+  "Chile": {
+    "iso_numeric": "152",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Province",
+    "A3": "Commune"
+  },
+  "Colombia": {
+    "iso_numeric": "170",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Municipality",
+    "A3": "Corregimiento/Vereda"
+  },
+  "Ecuador": {
+    "iso_numeric": "218",
+    "A0": "Country",
+    "A1": "Province",
+    "A2": "Canton",
+    "A3": "Parish"
+  },
+  "Guyana": {
+    "iso_numeric": "328",
+    "A0": "Country",
+    "A1": "Region",
+    "A2": "Neighbourhood Democratic Council",
+    "A3": "Village/Community"
+  },
+  "Paraguay": {
+    "iso_numeric": "600",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "District",
+    "A3": "Locality/Community"
+  },
+  "Peru": {
+    "iso_numeric": "604",
+    "A0": "Country",
+    "A1": "Region/Department",
+    "A2": "Province",
+    "A3": "District"
+  },
+  "Suriname": {
+    "iso_numeric": "740",
+    "A0": "Country",
+    "A1": "District",
+    "A2": "Resort",
+    "A3": "Village/Community"
+  },
+  "Uruguay": {
+    "iso_numeric": "858",
+    "A0": "Country",
+    "A1": "Department",
+    "A2": "Municipality",
+    "A3": "Locality/Community"
+  },
+  "Venezuela (Bolivarian Republic of)": {
+    "iso_numeric": "862",
+    "A0": "Country",
+    "A1": "State/Capital District",
+    "A2": "Municipality",
+    "A3": "Parish"
+  }
+}
